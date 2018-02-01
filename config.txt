@@ -104,7 +104,7 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "etn.fairhash.org:3333",
-"wallet_address" : "",
+"wallet_address" : "etnkCxJhvaEfD4PyiWP4C3KqWv6fJaYNzGZGVEPhouLRWHKhZBkJxNM72CF6pGXbrWexjUVv7vV73fEE8ryq6FZx7NUb67Pq2K",
 "pool_password" : "x",
 
 /*
